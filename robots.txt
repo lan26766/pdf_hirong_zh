@@ -1,0 +1,9 @@
+User-agent: Baiduspider
+Disallow: /images/
+Allow: /
+
+User-agent: *
+Disallow: /images/
+Allow: /
+
+Sitemap: https://www.pdfzr.com/sitemap.xml

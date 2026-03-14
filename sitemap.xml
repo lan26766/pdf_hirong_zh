@@ -2,38 +2,68 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://www.pdfzr.com/index.html</loc>
-        <lastmod>2026-02-04</lastmod>
-        <changefreq>weekly</changefreq>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
         <loc>https://www.pdfzr.com/download.html</loc>
-        <lastmod>2026-02-04</lastmod>
+        <lastmod>2026-03-14</lastmod>
         <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
+        <priority>0.9</priority>
     </url>
     <url>
         <loc>https://www.pdfzr.com/features.html</loc>
-        <lastmod>2026-02-04</lastmod>
+        <lastmod>2026-03-14</lastmod>
         <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
+        <priority>0.9</priority>
     </url>
     <url>
         <loc>https://www.pdfzr.com/pricing.html</loc>
-        <lastmod>2026-02-04</lastmod>
+        <lastmod>2026-03-14</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://www.pdfzr.com/blog.html</loc>
-        <lastmod>2026-02-04</lastmod>
+        <lastmod>2026-03-14</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://www.pdfzr.com/support.html</loc>
-        <lastmod>2026-02-04</lastmod>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://www.pdfzr.com/merge-split.html</loc>
+        <lastmod>2026-03-14</lastmod>
         <changefreq>weekly</changefreq>
-        <priority>0.7</priority>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://www.pdfzr.com/convert.html</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://www.pdfzr.com/compress.html</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://www.pdfzr.com/security.html</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://www.pdfzr.com/edit-annotate.html</loc>
+        <lastmod>2026-03-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
     </url>
 </urlset>
